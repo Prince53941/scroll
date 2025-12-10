@@ -1,7 +1,5 @@
 streamlit
-opencv-python
-mediapipe
+pandas
 numpy
-screen-brightness-control
-pycaw
-comtypes
+plotly
+scikit-learn
